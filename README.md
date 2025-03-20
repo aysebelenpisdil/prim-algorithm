@@ -1,5 +1,4 @@
 # prim-algorithm
-# prim-algorithm
 
 understanding the code
 
